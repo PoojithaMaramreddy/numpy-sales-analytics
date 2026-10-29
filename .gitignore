@@ -1,4 +1,4 @@
-# Python virtual environment
+# Virtual environment
 .venv/
 venv/
 
@@ -6,7 +6,13 @@ venv/
 __pycache__/
 *.pyc
 
-# VS Code settings
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VS Code local settings
 .vscode/
 
 # Operating system files

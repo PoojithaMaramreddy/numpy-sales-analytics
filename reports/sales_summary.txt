@@ -1,0 +1,27 @@
+
+NUMPY SALES ANALYTICS - 2026
+============================
+
+OVERALL SALES SUMMARY
+---------------------
+Total Revenue: Rs. 26,274,491.00
+Total Units Sold: 2741
+Total Transactions: 500
+Average Transaction Revenue: Rs. 52,548.98
+Average Revenue Per Unit: Rs. 9,585.73
+
+PRODUCT INSIGHTS
+----------------
+Highest Revenue Product: Laptop
+Lowest Revenue Product: Pen
+Highest Units Sold Product: Laptop
+
+CATEGORY INSIGHTS
+-----------------
+Highest Revenue Category: Electronics
+Lowest Revenue Category: Stationery
+
+MONTHLY INSIGHTS
+----------------
+Highest Revenue Month: November
+Lowest Revenue Month: February
